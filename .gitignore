@@ -1,3 +1,5 @@
 /js/
 /qita/test002.txt
 *.php
+!/js/005.txt
+/qita/!004.php
