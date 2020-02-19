@@ -1,2 +1,2 @@
 suibianxiedian neirong
-git rm
+git rm hhhrm3
