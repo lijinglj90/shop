@@ -1,2 +1,2 @@
 suibianxiedian neirong
-001`002
+git rm
