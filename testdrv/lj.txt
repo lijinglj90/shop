@@ -1,1 +1,2 @@
 test dev fen zhi
+Creating a new branch is quick AND simple.
